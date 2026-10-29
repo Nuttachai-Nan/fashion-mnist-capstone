@@ -1,0 +1,98 @@
+[
+  {
+    "test_index": 23,
+    "true_label": 9,
+    "true_name": "Ankle boot",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 0.9999815225601196
+  },
+  {
+    "test_index": 2914,
+    "true_label": 7,
+    "true_name": "Sneaker",
+    "predicted_label": 9,
+    "predicted_name": "Ankle boot",
+    "predicted_confidence": 0.9998795986175537
+  },
+  {
+    "test_index": 887,
+    "true_label": 3,
+    "true_name": "Dress",
+    "predicted_label": 1,
+    "predicted_name": "Trouser",
+    "predicted_confidence": 0.9996200799942017
+  },
+  {
+    "test_index": 787,
+    "true_label": 1,
+    "true_name": "Trouser",
+    "predicted_label": 3,
+    "predicted_name": "Dress",
+    "predicted_confidence": 0.9994774460792542
+  },
+  {
+    "test_index": 3084,
+    "true_label": 4,
+    "true_name": "Coat",
+    "predicted_label": 3,
+    "predicted_name": "Dress",
+    "predicted_confidence": 0.9994766116142273
+  },
+  {
+    "test_index": 5806,
+    "true_label": 6,
+    "true_name": "Shirt",
+    "predicted_label": 0,
+    "predicted_name": "T-shirt/top",
+    "predicted_confidence": 0.9993175268173218
+  },
+  {
+    "test_index": 2318,
+    "true_label": 3,
+    "true_name": "Dress",
+    "predicted_label": 2,
+    "predicted_name": "Pullover",
+    "predicted_confidence": 0.9980252981185913
+  },
+  {
+    "test_index": 3531,
+    "true_label": 0,
+    "true_name": "T-shirt/top",
+    "predicted_label": 3,
+    "predicted_name": "Dress",
+    "predicted_confidence": 0.9979950189590454
+  },
+  {
+    "test_index": 8292,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 7,
+    "predicted_name": "Sneaker",
+    "predicted_confidence": 0.9979026317596436
+  },
+  {
+    "test_index": 8688,
+    "true_label": 9,
+    "true_name": "Ankle boot",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 0.99774569272995
+  },
+  {
+    "test_index": 4693,
+    "true_label": 7,
+    "true_name": "Sneaker",
+    "predicted_label": 9,
+    "predicted_name": "Ankle boot",
+    "predicted_confidence": 0.9973257780075073
+  },
+  {
+    "test_index": 3188,
+    "true_label": 6,
+    "true_name": "Shirt",
+    "predicted_label": 2,
+    "predicted_name": "Pullover",
+    "predicted_confidence": 0.9971417784690857
+  }
+]

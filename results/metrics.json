@@ -1,0 +1,59 @@
+{
+  "dataset": "Fashion-MNIST",
+  "split": {
+    "train": 55000,
+    "validation": 5000,
+    "test": 10000,
+    "note": "Validation sampled from official training split with seeded random_split; official test set held out."
+  },
+  "class_names": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "seed": 42,
+  "device": "cuda",
+  "models": [
+    {
+      "model": "linear",
+      "test_accuracy": 0.8386,
+      "test_macro_f1": 0.8392759859678488,
+      "best_validation_loss": 0.4426188009738922,
+      "epochs_completed": 9,
+      "training_seconds": 104.04,
+      "checkpoint": "checkpoints/linear.pt",
+      "seed": 42,
+      "config": {
+        "epochs_max": 12,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "weight_decay": 0.0001,
+        "patience": 3
+      }
+    },
+    {
+      "model": "cnn",
+      "test_accuracy": 0.9187,
+      "test_macro_f1": 0.9181744235491642,
+      "best_validation_loss": 0.21141526888608933,
+      "epochs_completed": 12,
+      "training_seconds": 140.71,
+      "checkpoint": "checkpoints/cnn.pt",
+      "seed": 42,
+      "config": {
+        "epochs_max": 12,
+        "batch_size": 128,
+        "learning_rate": 0.001,
+        "weight_decay": 0.0001,
+        "patience": 3
+      }
+    }
+  ]
+}

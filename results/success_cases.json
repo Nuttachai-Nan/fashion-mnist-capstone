@@ -1,0 +1,98 @@
+[
+  {
+    "test_index": 62,
+    "true_label": 8,
+    "true_name": "Bag",
+    "predicted_label": 8,
+    "predicted_name": "Bag",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 9990,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 9992,
+    "true_label": 8,
+    "true_name": "Bag",
+    "predicted_label": 8,
+    "predicted_name": "Bag",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8370,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8386,
+    "true_label": 9,
+    "true_name": "Ankle boot",
+    "predicted_label": 9,
+    "predicted_name": "Ankle boot",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8422,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8435,
+    "true_label": 1,
+    "true_name": "Trouser",
+    "predicted_label": 1,
+    "predicted_name": "Trouser",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8434,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8416,
+    "true_label": 9,
+    "true_name": "Ankle boot",
+    "predicted_label": 9,
+    "predicted_name": "Ankle boot",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 1099,
+    "true_label": 8,
+    "true_name": "Bag",
+    "predicted_label": 8,
+    "predicted_name": "Bag",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8533,
+    "true_label": 5,
+    "true_name": "Sandal",
+    "predicted_label": 5,
+    "predicted_name": "Sandal",
+    "predicted_confidence": 1.0
+  },
+  {
+    "test_index": 8529,
+    "true_label": 1,
+    "true_name": "Trouser",
+    "predicted_label": 1,
+    "predicted_name": "Trouser",
+    "predicted_confidence": 1.0
+  }
+]
